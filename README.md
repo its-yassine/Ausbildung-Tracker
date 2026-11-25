@@ -1,4 +1,6 @@
 # Ausbildung Application Tracker (Bewerbungs-Tracker)
+<img width="1737" height="882" alt="image" src="https://github.com/user-attachments/assets/af7f4c79-2642-4d62-bda9-e459c5670998" />
+
 
 A lightweight web application built with **Python**, **SQLite**, and **Streamlit** to organize and track *Ausbildung* applications for **Fachinformatiker für Anwendungsentwicklung** in Germany.
 
