@@ -33,7 +33,7 @@ ausbildung-tracker/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/ausbildung-tracker.git
+   git clone https://github.com/its-yassine/ausbildung-tracker.git
    cd ausbildung-tracker
    ```
 
